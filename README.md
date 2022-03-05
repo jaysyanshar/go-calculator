@@ -1,0 +1,12 @@
+# go-calculator
+## features
+- users
+  - create
+  - read
+  - update
+  - delete
+- math
+  - add
+  - sub
+  - mul
+  - div
